@@ -1,6 +1,9 @@
+# 🦉 Bubo Reader
+**Forked from https://github.com/georgemandis/bubo-rss**
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/81dd219c-51cb-4418-a18c-42c8b104c689/deploy-status)](https://app.netlify.com/sites/bubo-rss-demo/deploys)
 
-# 🦉 Bubo Reader
+
 
 Bubo Reader is a hyper-minimalist feed reader (RSS, Atom, JSON) you can deploy on your own server, [Netlify](https://netlify.com) in a few steps or [Glitch](https://glitch.com) in even fewer steps! The goal of the project is to generate a webpage that shows a list of links from a collection of feeds organized by category and website. That's it.
 
